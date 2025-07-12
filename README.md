@@ -33,7 +33,7 @@ This project showcases an interactive **Sales Dashboard** built in **Microsoft E
 
 ## 📁 Files Included
 
-- `(Dashboard(Power Query,Power Pivot,Data Modelling,Pivot tables and charts,slicers).xlsx` – Complete dashboard file with visuals and interactivity.
+- `(Dashboard(Power Query,Power Pivot,Data Modelling,Pivot tables and charts,slicers)).xlsx` – Complete dashboard file with visuals and interactivity.
 
 ## 🙋‍♂️ About Me
 
